@@ -38,14 +38,13 @@ Sunday                   416 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     4 mins              ███████████████░░░░░░░░░░   58.84 % 
-Go                       3 mins              ██████████░░░░░░░░░░░░░░░   41.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -61,5 +60,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2023 18:39:07 UTC
+ Last Updated on 06/10/2023 18:39:25 UTC
 <!--END_SECTION:waka-->
