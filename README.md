@@ -3,9 +3,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 533 Bytes Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
+> 📦 534 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,14 +36,13 @@ Sunday                   13 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       26 mins             █████████████████████████   98.94 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Windsurf                 26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -61,5 +58,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 18:43:52 UTC
+ Last Updated on 06/02/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
