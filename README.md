@@ -1,9 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 534 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,13 +38,19 @@ Sunday                   13 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       3 hrs 18 mins       ██████████████████░░░░░░░   73.89 % 
+Makefile                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+Windsurf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 21 mins       ████████████████████████░   97.09 % 
+Mac                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 **I Mostly Code in Go** 
@@ -58,5 +66,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 18:43:41 UTC
+ Last Updated on 08/02/2025 18:40:40 UTC
 <!--END_SECTION:waka-->
