@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C014%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 818 Bytes Used in GitHub's Storage 
+> 📦 819 Bytes Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -38,20 +38,20 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.41 % 
-Other                    4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Diff                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Go                       6 hrs 29 mins       ██████████████░░░░░░░░░░░   54.18 % 
+Other                    4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 8 mins       █████████████████████████   98.87 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+VS Code                  11 hrs 50 mins      █████████████████████████   98.77 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    11 hrs 10 mins      █████████████████████░░░░   84.11 % 
-Mac                      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Linux                    11 hrs 33 mins      ████████████████████████░   96.39 % 
+Mac                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +67,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2026 19:58:56 UTC
+ Last Updated on 11/07/2026 19:40:59 UTC
 <!--END_SECTION:waka-->
