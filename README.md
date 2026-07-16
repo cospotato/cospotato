@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C023%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -38,18 +38,18 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 25 mins       █████████████░░░░░░░░░░░░   50.11 % 
-Other                    4 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Go                       8 hrs 48 mins       ████████████████░░░░░░░░░   65.58 % 
+Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 23 mins      ████████████████████████░   96.62 % 
-Mac                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Linux                    12 hrs 52 mins      ████████████████████████░   95.89 % 
+Mac                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +65,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 19:45:55 UTC
+ Last Updated on 16/07/2026 19:40:49 UTC
 <!--END_SECTION:waka-->
