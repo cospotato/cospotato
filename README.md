@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C023%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2022%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 821 Bytes Used in GitHub's Storage 
+> 📦 822 Bytes Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -38,18 +38,18 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 48 mins       ████████████████░░░░░░░░░   65.58 % 
-Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Go                       7 hrs 45 mins       █████████████████░░░░░░░░   69.41 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 52 mins      ████████████████████████░   95.89 % 
-Mac                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Linux                    11 hrs 3 mins       █████████████████████████   98.90 % 
+Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +65,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 19:40:49 UTC
+ Last Updated on 17/07/2026 19:40:25 UTC
 <!--END_SECTION:waka-->
