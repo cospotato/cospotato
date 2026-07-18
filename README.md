@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 822 Bytes Used in GitHub's Storage 
+> 📦 823 Bytes Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -38,18 +38,19 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 45 mins       █████████████████░░░░░░░░   69.41 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Go                       7 hrs 32 mins       ██████████████████░░░░░░░   72.56 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 23 mins      █████████████████████████   99.96 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    11 hrs 3 mins       █████████████████████████   98.90 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Linux                    10 hrs 16 mins      █████████████████████████   98.84 % 
+Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +66,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 19:40:25 UTC
+ Last Updated on 18/07/2026 19:41:28 UTC
 <!--END_SECTION:waka-->
