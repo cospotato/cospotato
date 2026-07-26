@@ -3,7 +3,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 826 Bytes Used in GitHub's Storage 
+> 📦 827 Bytes Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -38,18 +38,18 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 26 mins       ██████████████████████░░░   88.96 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Go                       12 hrs 38 mins      ███████████████████████░░   90.55 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs               ████████████████████████░   95.05 % 
-Mac                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Linux                    13 hrs 48 mins      █████████████████████████   98.92 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +65,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:43:17 UTC
+ Last Updated on 26/07/2026 19:43:41 UTC
 <!--END_SECTION:waka-->
