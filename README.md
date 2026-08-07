@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C966%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2032%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 835 Bytes Used in GitHub's Storage 
+> 📦 836 Bytes Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -40,39 +36,37 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.69 % 
-Markdown                 4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
-YAML                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Caddyfile                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Markdown                 4 hrs 33 mins       ███████████████░░░░░░░░░░   58.31 % 
+Go                       2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 41 mins      █████████████████████████   98.28 % 
-Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Linux                    7 hrs 48 mins       █████████████████████████   99.97 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (2.04%)
+⏱ AI Coding Time: 13 mins (2.91%)
 
-✍️ 0 lines written by AI, 7,057 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 6,712 lines written by hand (0.0% AI-written)
 
-🔤 4,847,116 Input Tokens, 80,482 Output Tokens
+🔤 4,774,619 Input Tokens, 80,331 Output Tokens
 
-💵 $0.22 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
-
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 23 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -89,5 +83,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:08:14 UTC
+ Last Updated on 07/08/2026 00:24:04 UTC
 <!--END_SECTION:waka-->
