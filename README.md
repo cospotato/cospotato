@@ -66,13 +66,13 @@ Mac                      25 mins             ██░░░░░░░░░�
 
 💵 $25.97 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 14 AI Prompts
+🧠 9 AI Sessions, 13 AI Prompts
 
 GPT                      89 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 2.2% of written lines came from AI
-📄 Detailed Prompter — average 1,212 characters per prompt
+📄 Detailed Prompter — average 1,071 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 96.73% of changed lines were hand-edited
 ```
@@ -90,5 +90,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:56:49 UTC
+ Last Updated on 16/08/2026 18:55:47 UTC
 <!--END_SECTION:waka-->
