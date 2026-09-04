@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,28 +40,28 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       10 hrs 5 mins       █████████████████████░░░░   85.44 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-GraphQL                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Go                       7 hrs 20 mins       █████████████████████░░░░   83.06 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+GraphQL                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 9 mins        ███████████████████░░░░░░   77.62 % 
-Codex Vscode             2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+VS Code                  6 hrs 18 mins       ██████████████████░░░░░░░   71.33 % 
+Codex Vscode             2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    11 hrs 40 mins      █████████████████████████   98.88 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Linux                    8 hrs 50 mins       █████████████████████████   99.99 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 19 mins (28.11%)
+⏱ AI Coding Time: 3 hrs 19 mins (37.51%)
 
-✍️ 482 lines written by AI, 4,006 lines written by hand (10.74% AI-written)
+✍️ 482 lines written by AI, 3,433 lines written by hand (12.31% AI-written)
 
 🔤 10,105,011 Input Tokens, 697,208 Output Tokens
 
@@ -72,24 +72,24 @@ Mac                      7 mins              ░░░░░░░░░░░�
 GPT                      562 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.74% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 12.31% of written lines came from AI
 📝 Concise Prompter — average 65 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 88.98% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Go                       8 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 03/09/2026 21:13:46 UTC
+ Last Updated on 04/09/2026 20:56:37 UTC
 <!--END_SECTION:waka-->
