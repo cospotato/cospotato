@@ -40,25 +40,25 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 46 mins       ███████████████░░░░░░░░░░   59.16 % 
-HTML                     4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-GraphQL                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Go                       7 hrs 47 mins       ██████████████░░░░░░░░░░░   55.71 % 
+HTML                     3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+GraphQL                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 38 mins      ████████████████████████░   94.67 % 
-Codex Vscode             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+VS Code                  13 hrs 5 mins       ███████████████████████░░   93.70 % 
+Codex Vscode             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 Operating System: 
-Linux                    12 hrs 6 mins       ██████████████████░░░░░░░   73.33 % 
-Mac                      4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Linux                    10 hrs 7 mins       ██████████████████░░░░░░░   72.46 % 
+Mac                      3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (7.62%)
+⏱ AI Coding Time: 1 hr 15 mins (9.01%)
 
 ✍️ 363 lines written by AI, 134 lines written by hand (73.04% AI-written)
 
@@ -90,5 +90,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:46:58 UTC
+ Last Updated on 13/09/2026 21:01:52 UTC
 <!--END_SECTION:waka-->
