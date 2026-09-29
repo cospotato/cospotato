@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2052%20mins-blue?style=flat)
 
@@ -40,17 +40,17 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 2 mins        ██████████████████░░░░░░░   72.14 % 
-YAML                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Go                       4 hrs 50 mins       ████████████████████░░░░░   79.65 % 
+YAML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:27:44 UTC
+ Last Updated on 29/09/2026 22:31:32 UTC
 <!--END_SECTION:waka-->
