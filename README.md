@@ -40,17 +40,16 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 32 mins       ████████████████████████░   95.69 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Go                       3 hrs 24 mins       ████████████████████████░   96.39 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +71,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:46:15 UTC
+ Last Updated on 06/10/2026 00:15:11 UTC
 <!--END_SECTION:waka-->
