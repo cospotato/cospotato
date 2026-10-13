@@ -40,23 +40,42 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 mins              ███████████████░░░░░░░░░░   60.09 % 
-Go                       4 mins              █████████░░░░░░░░░░░░░░░░   34.63 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Go                       1 hr 35 mins        ██████████████░░░░░░░░░░░   56.77 % 
+Markdown                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Makefile                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Neovim                   8 mins              ███████████████░░░░░░░░░░   60.09 % 
-VS Code                  5 mins              ██████████░░░░░░░░░░░░░░░   39.91 % 
+VS Code                  1 hr 47 mins        ████████████████░░░░░░░░░   63.55 % 
+Codex Vscode             53 mins             ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Mac                      8 mins              ███████████████░░░░░░░░░░   60.09 % 
-Linux                    5 mins              ██████████░░░░░░░░░░░░░░░   39.91 % 
+Linux                    2 hrs 40 mins       ████████████████████████░   94.92 % 
+Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 1 min (36.38%)
+
+✍️ 871 lines written by AI, 46 lines written by hand (94.98% AI-written)
+
+🔤 648,143 Input Tokens, 89,964 Output Tokens
+
+💵 $12.94 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 5 AI Prompts
+
+GPT                      989 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.98% of written lines came from AI
+📝 Concise Prompter — average 497 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 24.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -72,5 +91,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:15:29 UTC
+ Last Updated on 13/10/2026 00:55:07 UTC
 <!--END_SECTION:waka-->
