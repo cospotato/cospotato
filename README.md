@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 879 Bytes Used in GitHub's Storage 
+> 📦 880 Bytes Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2026
  > 
@@ -40,42 +40,42 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
-Go                       1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-Other                    1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Java                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Go                       2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.93 % 
+Markdown                 1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   38.85 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Image (jpeg)             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████░░░░░░░░░░░░   53.57 % 
-Codex Vscode             2 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.43 % 
+VS Code                  4 hrs 2 mins        ████████████████████░░░░░   79.34 % 
+Codex Vscode             1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 
 💻 Operating System: 
-Linux                    3 hrs 38 mins       ███████████████░░░░░░░░░░   60.96 % 
-Mac                      2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
+Linux                    4 hrs 17 mins       █████████████████████░░░░   84.34 % 
+Mac                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (92.35%)
+⏱ AI Coding Time: 2 hrs 49 mins (55.34%)
 
-✍️ 4,134 lines written by AI, 12 lines written by hand (99.71% AI-written)
+✍️ 4,154 lines written by AI, 217 lines written by hand (95.04% AI-written)
 
-🔤 3,658,997 Input Tokens, 520,553 Output Tokens
+🔤 2,909,821 Input Tokens, 317,737 Output Tokens
 
-💵 $13.04 Estimated AI Cost This Week
+💵 $95.01 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 78 AI Prompts
+🧠 11 AI Sessions, 31 AI Prompts
 
-GPT                      1,971 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 3,115 lines         ████████████████████░░░░░   80.24 % 
+GPT                      767 lines           █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🤖 AI-Driven — 95.04% of written lines came from AI
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -91,5 +91,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 21:54:40 UTC
+ Last Updated on 22/10/2026 21:51:45 UTC
 <!--END_SECTION:waka-->
