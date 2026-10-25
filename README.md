@@ -40,38 +40,41 @@ Sunday                   14 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 21 mins       ██████████████████░░░░░░░   71.30 % 
-Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Go                       3 hrs 21 mins       ██████████████████░░░░░░░   71.22 % 
+Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 tmux                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 42 mins       █████████████████████████   99.89 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    4 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 42 mins       █████████████████████████   99.89 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (42.34%)
+⏱ AI Coding Time: 1 hr 59 mins (42.4%)
 
 ✍️ 4,914 lines written by AI, 354 lines written by hand (93.28% AI-written)
 
-🔤 185,766 Input Tokens, 176,642 Output Tokens
+🔤 544,362 Input Tokens, 177,235 Output Tokens
 
-💵 $85.27 Estimated AI Cost This Week
+💵 $86.01 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 27 AI Prompts
+🧠 4 AI Sessions, 27 AI Prompts
 
 DeepSeek                 3,115 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.28% of written lines came from AI
 📄 Detailed Prompter — average 695 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 7.79% of changed lines were hand-edited
 ```
 
@@ -88,5 +91,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:03:44 UTC
+ Last Updated on 25/10/2026 21:04:05 UTC
 <!--END_SECTION:waka-->
